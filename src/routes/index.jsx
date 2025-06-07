@@ -14,9 +14,9 @@ const TaskDetails = React.lazy(() => import("../pages/apps/Tasks/Details"));
 const Kanban = React.lazy(() => import("../pages/apps/Tasks/Board"));
 
 // E-commerce
-const Customers = React.lazy(() => import("../pages/apps/ecommerce/Customers"));
-const Orders = React.lazy(() => import("../pages/apps/ecommerce/Orders"));
-const Sellers = React.lazy(() => import("../pages/apps/ecommerce/Sellers"));
+const Customers = React.lazy(() => import("../pages/apps/Ecommerce/Customers"));
+const Orders = React.lazy(() => import("../pages/apps/Ecommerce/Orders"));
+const Sellers = React.lazy(() => import("../pages/apps/Ecommerce/Sellers"));
 
 // Landing
 // const Landing = React.lazy(() => import("../pages/landing"));
