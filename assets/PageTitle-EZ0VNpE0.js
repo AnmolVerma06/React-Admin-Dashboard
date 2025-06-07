@@ -1,0 +1,2 @@
+import{j as e,R as t,b as i,o as r}from"./ui-vendor-DhPSKlfp.js";const h=a=>e.jsx(t,{children:e.jsx(i,{children:e.jsxs("div",{className:"page-title-box",children:[e.jsx("div",{className:"page-title-right",children:e.jsxs(r,{className:"m-0",children:[e.jsx(r.Item,{href:"/",children:"AG Enterprise"}),(a.breadCrumbItems||[]).map((s,l)=>s.active?e.jsx(r.Item,{active:!0,children:s.label},l):e.jsx(r.Item,{href:s.path,children:s.label},l))]})}),e.jsx("h4",{className:"page-title",children:a.title})]})})});export{h as P};
+//# sourceMappingURL=PageTitle-EZ0VNpE0.js.map

@@ -1,0 +1,2 @@
+import{j as e,R as r,b as s}from"./ui-vendor-DhPSKlfp.js";import{R as t}from"./react-vendor-BUHTZ7bT.js";const a=()=>(new Date().getFullYear(),e.jsx(t.Fragment,{children:e.jsx("footer",{className:"footer",children:e.jsx("div",{className:"container-fluid",children:e.jsxs(r,{children:[e.jsx(s,{md:6,children:"AG Enterprise"}),e.jsx(s,{md:6,children:e.jsx("div",{className:"d-none d-md-flex gap-4 align-item-center justify-content-md-end footer-links"})})]})})})}));export{a as default};
+//# sourceMappingURL=Footer-DXJ8VPX5.js.map
