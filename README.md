@@ -82,11 +82,6 @@ npm run build
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots here if you’d like to visually showcase key components._
-
----
 
 ## 👨‍💻 Author
 
