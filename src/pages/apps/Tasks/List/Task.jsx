@@ -4,11 +4,11 @@ import { Row, Col, Card, Dropdown, OverlayTrigger, Tooltip } from "react-bootstr
 import classNames from "classnames";
 
 // Form Editor
-import ReactQuill from "react-quill-new";
+import ReactQuill from "react-quill";
 
 // styles
-import 'react-quill-new/dist/quill.snow.css';
-import 'react-quill-new/dist/quill.bubble.css';
+import 'react-quill/dist/quill.snow.css';
+import 'react-quill/dist/quill.bubble.css';
 
 // dummy data
 
