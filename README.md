@@ -4,7 +4,7 @@ A fully responsive and interactive Admin Dashboard built with **React**, **Vite*
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the deployed app]([https://anmolverma06-react-admin-dashboard.vercel.app](https://anmolverma06.github.io/React-Admin-Dashboard/#/dashboard-1))
+👉 [Click here to view the deployed app](https://anmolverma06.github.io/React-Admin-Dashboard/#/dashboard-1)
 
 ## ✨ Features
 
