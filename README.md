@@ -34,6 +34,8 @@ A fully responsive and interactive Admin Dashboard built with **React**, **Vite*
 
 ---
 
+> **Note:** This project includes some additional libraries that are not actively used in the main dashboard. They have been included for potential future use in other components or features.
+---
 ## 📁 Folder Structure
 
 ```
